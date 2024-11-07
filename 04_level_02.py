@@ -11,7 +11,7 @@ if 정답 > 입력:
 elif 정답 < 입력:
     st.write("함지고 : **더 낮춰라!**")
 else:
-    st.subheader("함지고 : 내 마음을 꿰둟었군.")
+    st.subheader("함지고 : 내 마음을 꿰뚫었군.")
     st.write("함지고 주소는 대구광역시 북구 학정로48길 46")
     btn_03 = st.button("다음으로")
     if btn_03:
